@@ -1,4 +1,4 @@
-# GaiaOnline Client API
+# Fisher Yates Seeded Shuffle
 Shuffle and Unshuffle strings and arrays using the Fisher Yates shuffle algorithm.
 
 ## Examples
