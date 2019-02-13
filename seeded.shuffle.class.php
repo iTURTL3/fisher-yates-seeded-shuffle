@@ -5,7 +5,7 @@
 class seeded_shuffle {
 
 
-   public static function data_length($data) {
+   private static function data_length($data) {
       return (is_array($data) ? count($data) : strlen($data));
    }
 
