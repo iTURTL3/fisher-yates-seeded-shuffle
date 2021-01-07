@@ -12,6 +12,7 @@ $unshuffled = seeded_shuffle::unshuffle($shuffled, $seed);
 echo $shuffled   . PHP_EOL;
 echo $unshuffled . PHP_EOL;
 ```
+
 **Shuffle & Unshuffle an array**
 ```PHP
 require_once('seeded.shuffle.class.php');
